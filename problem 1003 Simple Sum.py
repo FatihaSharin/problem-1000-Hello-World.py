@@ -1,6 +1,6 @@
-A= int(input())
-B= int(input())
+A = int(input())
+B = int(input())
 
-X=(A+B)
+X = (A + B)
 
 print("SOMA = {}".format(X))
