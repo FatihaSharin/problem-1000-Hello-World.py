@@ -1,6 +1,6 @@
-A= int(input())
-B= int(input())
+A = int(input())
+B = int(input())
 
-PROD=(A*B)
+PROD = (A * B)
 
-print("PROD = {}".format(PROD))
+print("PROD =",PROD)
